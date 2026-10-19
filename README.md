@@ -127,8 +127,7 @@ The targets for each metric are in [PRD.md](PRD.md#5-success-metrics).
 | [research/interview-summary.md](research/interview-summary.md) | Interview notes and patterns |
 | [design/screens/](design/screens/) | The 8 screens as SVG (editable in Figma) and PNG |
 | [design/all_screens_board.png](design/all_screens_board.png) | All screens on one board |
-| [design/HOW_TO_IMPORT.md](design/HOW_TO_IMPORT.md) | How to bring the SVGs into Figma |
-| [design/make_screens.py](design/make_screens.py) | Python script that generates the screens |
+
 
 ---
 *This is an independent concept case study. It is not affiliated with Splitwise. The feature was not built, and the screens are mockups.*
