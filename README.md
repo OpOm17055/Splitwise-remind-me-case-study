@@ -118,11 +118,6 @@ The targets for each metric are in [PRD.md](PRD.md#5-success-metrics).
 - **Interviews reveal feelings, not just features.** "I feel embarrassed" led to a better idea than "I want a reminder button".
 - **Narrow scope beats a long feature list.** Two focused features that fit together tell a clearer story than five loose ones.
 
-## 12. Next steps
-
-- Turn the screens into a clickable Figma prototype.
-- Test it with 5 of the original interviewees.
-- Refine the design based on what they say.
 
 ## 13. Repository contents
 
